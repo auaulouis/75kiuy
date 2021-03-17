@@ -7,7 +7,7 @@ const stage = new Stage({ costumeNumber: 1 });
 
 const sprites = {
   Sprite1: new Sprite1({
-    x: 249.38668544595689,
+    x: 249.366666666666666595689,
     y: 226.9516239392259,
     direction: -32.050446408,
     costumeNumber: 1,
